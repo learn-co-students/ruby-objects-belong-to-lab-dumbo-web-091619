@@ -1,4 +1,5 @@
 require "spec_helper"
+require 'pry'
 
 describe "Artist" do 
   it "has a name" do
